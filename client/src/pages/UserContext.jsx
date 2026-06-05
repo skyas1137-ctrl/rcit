@@ -5,7 +5,7 @@ export const dataContext = createContext()
 
 
 function UserContext({children}){
-    const serverUrl = "http://localhost:8000"
+    const serverUrl = "https://rcit.onrender.com"
     // const serverUrl = "http://192.168.43.163:8000"
 
 

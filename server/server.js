@@ -16,7 +16,7 @@ app.use('/public', (req, res, next) => {
 }, express.static('public'));
 
 app.use(cors({
-    origin: ["http://192.168.43.163:5173","http://localhost:5173"],
+    origin: ["http://192.168.43.163:5173","https://rcit-1.onrender.com"],
     methods: ["GET", "POST"],
     credentials: true
 }))
