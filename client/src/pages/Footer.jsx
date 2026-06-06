@@ -18,11 +18,12 @@ function Footer() {
             <div className="footerf">
             <h1 className="quick">Popular Courses</h1>
 
+                <p className="footerP">CCC</p>
                 <p className="footerP">DCA / ADCA</p>
-                <p className="footerP">O Level / A Level Training</p>
-                <p className="footerP">Full-Stack Web Development (MERN)</p>
-                <p className="footerP">Python & Data Science</p>
-                <p className="footerP">Tally Prime & GST Training</p>
+                <p className="footerP">Tally Prime with GST</p>
+                <p className="footerP">Ms Excel</p>
+                <p className="footerP">Ms Word</p>
+                <p className="footerP">Ms Power Point</p>
             </div>
 
 
@@ -32,8 +33,8 @@ function Footer() {
             <h1 className="quick">Contact & Location Info</h1>
 
                 <p className="footerP">Address: <span>Indupur</span></p>
-                <p className="footerP">Phone Number: <span>Calling aur WhatsApp number.</span></p>
-                <p className="footerP">Email: <span>official_email@rcit.com</span></p>
+                <p className="footerP">Phone Number: <span>9682255604</span></p>
+                <p className="footerP">Email: <span>Rcitindupur@gmail.com</span></p>
                 <p className="footerP">Timing: <span>Mon - Sat: 8:00 AM - 7:00 PM</span></p>
             </div>
         </div>
