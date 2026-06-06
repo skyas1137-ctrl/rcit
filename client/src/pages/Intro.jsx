@@ -58,7 +58,8 @@ function Intro() {
             </div>
 
             <div className="centerSectionDiv">
-                <h1 id="master">Master Tomorrow' s Skill, Today.</h1>
+                <h1 id="mmss" style={{color:"rgb(255, 115, 0)",fontFamily:"arial black",marginTop:"-30px",marginBottom:"19px"}}>RCIT</h1>
+                <h1 id="master">Your Gateway to the Digital World</h1>
                 <h1 id="masterP">Practical, Project-Based Training of a Successful Tech Career Choose Your Path</h1>
 
                 <div className="studentImage">

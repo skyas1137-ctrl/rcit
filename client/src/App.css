@@ -33,15 +33,19 @@
 
 
   .centerSectionDiv {
-    height: 450px;
+    height: 500px;
     width: 100%;
   }
+
+  #mmss{
+  font-size:34px;
+}
 
 
 
   .studentImage {
-    height: 160px;
-    width: 220px;
+    height: 180px;
+    width: 260px;
 
   }
 

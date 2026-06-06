@@ -112,7 +112,7 @@
 
 .centerSectionDiv {
   position: relative;
-  height: 580px;
+  height: 660px;
   width: 100%;
   background-color: rgb(255, 246, 238);
   display: flex;
@@ -122,21 +122,26 @@
   border-bottom: 0.3px solid rgb(255, 115, 0);
 }
 
+#mmss{
+  font-size:74px;
+}
+
 #master {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 30px;
   text-align: center;
-  color: rgb(255, 115, 0);
+  color: rgb(255, 123, 14);
+  margin-top: -20px;
 }
 
 #masterP {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   text-align: center;
   margin-top: 9px;
-  color: rgb(255, 115, 0);
+  color: rgb(255, 127, 22);
 
 }
 
