@@ -76,7 +76,7 @@ function Intro() {
                             <div className="topChildDiv">
                                 <PiCertificateFill className="tcdI" />
                                 <div className="topChild">
-                                    <h1 className="tcd">3+</h1>
+                                    <h1 className="tcd">20+</h1>
                                     <h1 className="tcd">Year of Excellence</h1>
                                 </div>
                             </div>
@@ -99,7 +99,7 @@ function Intro() {
                             <div className="topChildDiv">
                                 <RiVerifiedBadgeFill className="tcdI" />
                                 <div className="topChild">
-                                    <h1 className="tcd">3+</h1>
+                                    <h1 className="tcd">20+</h1>
                                     <h1 className="tcd">Year of Excellence</h1>
                                 </div>
                             </div>
